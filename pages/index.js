@@ -149,6 +149,105 @@ export default function Home() {
                 </div>
               </div>
             </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="p-3 col-lg-3 col-sm-2 col-md-4">
+              <div className="card">
+                <h5 className="card-title text-center">Card title</h5>
+                <div className="card-body">
+                  <p className="card-text">
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </Layout>
